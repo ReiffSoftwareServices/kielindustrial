@@ -25,7 +25,7 @@ SECRET_KEY = '8-+4t(=rjn50(97q9n&=4tv2var^pg^g!s#4bm(x_lbfqa05)@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kielindustrialtest']
+ALLOWED_HOSTS = ['https://kieltest.herokuapp.com/']
 
 
 # Application definition
